@@ -18,7 +18,7 @@ from sound import Sound
 from binds import bindAPI
 
 
-TOKEN = "5930222021:AAGr7dhnH7QiJqn1OtMVHs5ZuJ7gaHp-mUg"  # Токен бота из BotFather
+TOKEN = ""  # Токен бота из BotFather
 ADMINS = [1787264269]  # Список администраторов бота
 BINDS_ROUTE = r'binds'  # Путь до папки с биндами
 LOGGING = True  # Включить логгирование в консоли всех, кто пытается использовать бота (True - логировать / False - нет)
